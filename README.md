@@ -21,7 +21,7 @@ Shopping Time!<img height="30px" align="center" src="https://www.svgrepo.com/sho
 ## <img height="30px" align="center" src="https://www.svgrepo.com/show/368401/info-bubble.svg">About
 A comprehensive e-commerce website that allows users to easily browse through a wide range of electronic products.Plus, users also have the flexibility to modify the quantity of items in their cart or product detail page during the purchasing process.
 
-E-commerce is a two-weeks group project, memebers includes: Billy Nguyen and Jeferson Siqueira. It proved to be an exciting adventure, and I feel incredibly fortunate to have had such exceptional teammates by my side to accomplish that much in only two weeks!
+Electronics Multivers is a two-weeks group project, memebers includes: Billy Nguyen and Jeferson Siqueira. It proved to be an exciting adventure, and I feel incredibly fortunate to have had such exceptional teammates by my side to accomplish that much in only two weeks!
 
 ## <img height="30px" align="center" src="https://www.svgrepo.com/show/285406/champagne.svg">Features
 ### Not Log In
