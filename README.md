@@ -1,4 +1,4 @@
-### <p align="center"><img height="100px" align="center" src="https://cdn.discordapp.com/attachments/899929905318486046/1110477371687059486/EM.png">_Electronics Multivers_</p>
+### <p align="center"><img height="100px" align="center" src="https://cdn.discordapp.com/attachments/899929905318486046/1110477371687059486/EM.png">_Electronics Multiverse_</p>
 
 [<img height="20px" align="center" src="https://www.svgrepo.com/show/285449/cocktail.svg"> Quick Start](#quick-start) · [<img height="20px" align="center" src="https://www.svgrepo.com/show/368401/info-bubble.svg"> About](#about) · [<img height="20px" align="center" src="https://www.svgrepo.com/show/285406/champagne.svg"> Features](#features) 
 
@@ -15,13 +15,13 @@ cd client
 yarn install
 yarn start
 ```
-Then Electronics Multivers will be running automatically at <a herf="http://localhost:3000/">http://localhost:3000/</a><br/>
+Then Electronics Multiverse will be running automatically at <a herf="http://localhost:3000/">http://localhost:3000/</a><br/>
 Shopping Time!<img height="30px" align="center" src="https://www.svgrepo.com/show/285397/cheers-alcohol.svg">
 
 ## <img height="30px" align="center" src="https://www.svgrepo.com/show/368401/info-bubble.svg">About
 A comprehensive e-commerce website that allows users to easily browse through a wide range of electronic products.Plus, users also have the flexibility to modify the quantity of items in their cart or product detail page during the purchasing process.
 
-Electronics Multivers is a two-weeks group project, memebers includes: Billy Nguyen and Jeferson Siqueira. It proved to be an exciting adventure, and I feel incredibly fortunate to have had such exceptional teammates by my side to accomplish that much in only two weeks!
+Electronics Multiverse is a two-weeks group project, memebers includes: Billy Nguyen and Jeferson Siqueira. It proved to be an exciting adventure, and I feel incredibly fortunate to have had such exceptional teammates by my side to accomplish that much in only two weeks!
 
 ## <img height="30px" align="center" src="https://www.svgrepo.com/show/285406/champagne.svg">Features
 ### Not Log In
